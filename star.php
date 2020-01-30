@@ -9,7 +9,7 @@ for($i=0;$i<$a;$i++)
 	}
 	for($j=o;$j<=$i;$j++)
 	{
-		echo("* nbsp");
+		echo("*&nbsp");
 	}
 	$c--;
 }
